@@ -1,3 +1,3 @@
-# gascell
+# exogas
 
-gascell makes some figures for gas cell experiments, using [exojax](https://github.com/HajimeKawahara/exojax).
+exogas makes some figures for gas cell experiments for exoplanets, using [exojax](https://github.com/HajimeKawahara/exojax).
